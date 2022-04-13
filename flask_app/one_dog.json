@@ -1,0 +1,19 @@
+[
+	{
+		"id" : 1,
+		"name" : "lale",
+		"breed" : "golden",
+		"age" : 10,
+		"created_at" : "2022-03-29 12:13:03",
+		"updated_at" : null,
+		"owner_id" : 1,
+		"owner": {
+			"id" : 1,
+			"first_name" : "hey",
+			"last_name" : "hey",
+			"email" : "hey@gmail.com",
+			"password" : "$2b$12$2nN9zcSyw0YofrGBhLH5l.pthMFqg44ahlVuQ2Q7LbVkjKje8klI6",
+			"created_at" : "2022-03-29 12:12:35",
+			"updated_at" : null
+	}
+]
